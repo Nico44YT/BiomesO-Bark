@@ -44,7 +44,8 @@ processResources {
                 "minecraft_version": project.minecraft_version,
                 "loader_version": project.loader_version,
                 "treebark_version": project.treebark_version,
-                "liby_version": project.liby_version
+                "liby_version": project.liby_version,
+                "biomesoplenty_version": project.biomesoplenty_version
     }
 }
 

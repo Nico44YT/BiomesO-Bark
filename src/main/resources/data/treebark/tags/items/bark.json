@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "biomes_o_bark:dead_bark",
+    "biomes_o_bark:empyreal_bark",
+    "biomes_o_bark:fir_bark",
+    "biomes_o_bark:hellbark_bark",
+    "biomes_o_bark:jacaranda_bark",
+    "biomes_o_bark:magic_bark",
+    "biomes_o_bark:mahogany_bark",
+    "biomes_o_bark:maple_bark",
+    "biomes_o_bark:palm_bark",
+    "biomes_o_bark:pine_bark",
+    "biomes_o_bark:redwood_bark",
+    "biomes_o_bark:umbran_bark",
+    "biomes_o_bark:willow_bark"
+  ]
+}
