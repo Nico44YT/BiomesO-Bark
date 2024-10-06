@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "nazario.biomesobark.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BarkRegistryMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
